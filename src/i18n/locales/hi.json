@@ -1,0 +1,156 @@
+{
+  "app": {
+    "title": "लोकसेतु",
+    "subtitle": "Connecting people and aware everywhere",
+    "tagline": "Connecting people and aware everywhere"
+  },
+  "common": {
+    "start": "शुरू करें",
+    "back": "वापस",
+    "home": "होम",
+    "next": "आगे",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "close": "बंद करें",
+    "logout": "लॉगआउट",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "required": "आवश्यक",
+    "optional": "वैकल्पिक",
+    "select": "चुनें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "download": "डाउनलोड",
+    "print": "प्रिंट"
+  },
+  "language": {
+    "select": "भाषा चुनें",
+    "english": "English",
+    "hindi": "हिंदी"
+  },
+  "auth": {
+    "title": "प्रमाणीकरण",
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "enterEmail": "अपना ईमेल पता दर्ज करें",
+    "password": "पासवर्ड",
+    "enterPassword": "अपना पासवर्ड दर्ज करें",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "enterConfirmPassword": "पासवर्ड दोबारा दर्ज करें",
+    "passwordMismatch": "पासवर्ड मेल नहीं खा रहे हैं",
+    "loginSuccess": "लॉगिन सफल"
+  },
+  "departments": {
+    "title": "विभाग चुनें",
+    "electricity": "बिजली",
+    "gas": "गैस",
+    "water": "पानी",
+    "waste": "कचरा प्रबंधन"
+  },
+  "serviceTypes": {
+    "title": "सेवा चुनें",
+    "payBill": "बिल भुगतान",
+    "registerComplaint": "शिकायत दर्ज करें",
+    "serviceRequest": "सेवा अनुरोध",
+    "trackStatus": "स्थिति ट्रैक करें"
+  },
+  "complaint": {
+    "title": "शिकायत दर्ज करें",
+    "issueType": "समस्या का प्रकार",
+    "selectIssue": "समस्या का प्रकार चुनें",
+    "description": "विवरण",
+    "descriptionPlaceholder": "अपनी समस्या का विस्तार से वर्णन करें",
+    "uploadDocument": "दस्तावेज़ अपलोड करें (वैकल्पिक)",
+    "uploadHint": "JPG, PNG, या PDF (अधिकतम 5MB)",
+    "submit": "शिकायत जमा करें",
+    "success": "शिकायत सफलतापूर्वक दर्ज की गई",
+    "issueTypes": {
+      "powerOutage": "बिजली कटौती",
+      "billing": "बिलिंग समस्या",
+      "meterFault": "मीटर खराबी",
+      "leakage": "रिसाव",
+      "quality": "गुणवत्ता समस्या",
+      "connection": "नया कनेक्शन",
+      "disconnection": "डिस्कनेक्शन",
+      "other": "अन्य"
+    }
+  },
+  "serviceRequest": {
+    "title": "सेवा अनुरोध",
+    "requestType": "अनुरोध प्रकार",
+    "selectRequest": "अनुरोध प्रकार चुनें",
+    "description": "विवरण",
+    "descriptionPlaceholder": "अपने अनुरोध का विस्तार से वर्णन करें",
+    "uploadDocument": "दस्तावेज़ अपलोड करें (वैकल्पिक)",
+    "submit": "अनुरोध जमा करें",
+    "success": "अनुरोध सफलतापूर्वक जमा किया गया",
+    "requestTypes": {
+      "newConnection": "नया कनेक्शन",
+      "disconnection": "डिस्कनेक्शन",
+      "reconnection": "पुनः कनेक्शन",
+      "meterChange": "मीटर परिवर्तन",
+      "nameChange": "नाम परिवर्तन",
+      "addressChange": "पता परिवर्तन",
+      "other": "अन्य"
+    }
+  },
+  "status": {
+    "title": "स्थिति ट्रैक करें",
+    "requestId": "अनुरोध ID",
+    "enterRequestId": "अपना अनुरोध ID दर्ज करें",
+    "track": "ट्रैक करें",
+    "submitted": "प्रस्तुत",
+    "inProgress": "प्रगति में",
+    "resolved": "हल हो गया",
+    "notFound": "अनुरोध नहीं मिला",
+    "details": "अनुरोध विवरण",
+    "department": "विभाग",
+    "serviceType": "सेवा प्रकार",
+    "createdAt": "बनाया गया",
+    "updatedAt": "अपडेट किया गया"
+  },
+  "confirmation": {
+    "title": "अनुरोध पुष्टि",
+    "success": "आपका अनुरोध सफलतापूर्वक जमा किया गया है",
+    "requestId": "अनुरोध ID",
+    "department": "विभाग",
+    "serviceType": "सेवा प्रकार",
+    "status": "स्थिति",
+    "dateTime": "दिनांक और समय",
+    "downloadReceipt": "रसीद डाउनलोड करें",
+    "printReceipt": "रसीद प्रिंट करें",
+    "trackStatus": "स्थिति ट्रैक करें",
+    "newRequest": "नया अनुरोध",
+    "thankYou": "सुविधा सेवाओं का उपयोग करने के लिए धन्यवाद"
+  },
+  "admin": {
+    "title": "एडमिन डैशबोर्ड",
+    "login": "एडमिन लॉगिन",
+    "username": "उपयोगकर्ता नाम",
+    "password": "पासवर्ड",
+    "loginButton": "लॉगिन",
+    "logout": "लॉगआउट",
+    "requests": "अनुरोध",
+    "allRequests": "सभी अनुरोध",
+    "filterByDepartment": "विभाग द्वारा फ़िल्टर करें",
+    "filterByStatus": "स्थिति द्वारा फ़िल्टर करें",
+    "allDepartments": "सभी विभाग",
+    "allStatuses": "सभी स्थितियां",
+    "requestDetails": "अनुरोध विवरण",
+    "updateStatus": "स्थिति अपडेट करें",
+    "save": "सहेजें",
+    "user": "उपयोगकर्ता",
+    "mobile": "मोबाइल",
+    "noRequests": "कोई अनुरोध नहीं मिला"
+  },
+  "errors": {
+    "generic": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+    "network": "नेटवर्क त्रुटि। कृपया अपना कनेक्शन जांचें।",
+    "required": "यह फ़ील्ड आवश्यक है",
+    "invalidFile": "अमान्य फ़ाइल प्रकार या आकार",
+    "sessionExpired": "सत्र समाप्त हो गया। कृपया फिर से लॉगिन करें।"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "app": {
+    "title": "LokSetu",
+    "subtitle": "Connecting people and aware everywhere",
+    "tagline": "Connecting people and aware everywhere"
+  },
+  "common": {
+    "start": "Start",
+    "back": "Back",
+    "home": "Home",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "required": "Required",
+    "optional": "Optional",
+    "select": "Select",
+    "search": "Search",
+    "filter": "Filter",
+    "download": "Download",
+    "print": "Print"
+  },
+  "language": {
+    "select": "Select Language",
+    "english": "English",
+    "hindi": "हिंदी"
+  },
+  "auth": {
+    "title": "Authentication",
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "enterEmail": "Enter your email address",
+    "password": "Password",
+    "enterPassword": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "enterConfirmPassword": "Re-enter your password",
+    "passwordMismatch": "Passwords do not match",
+    "loginSuccess": "Login successful"
+  },
+  "departments": {
+    "title": "Select Department",
+    "electricity": "Electricity",
+    "gas": "Gas",
+    "water": "Water",
+    "waste": "Waste Management"
+  },
+  "serviceTypes": {
+    "title": "Select Service",
+    "payBill": "Pay Bill",
+    "registerComplaint": "Register Complaint",
+    "serviceRequest": "Service Request",
+    "trackStatus": "Track Status"
+  },
+  "complaint": {
+    "title": "Register Complaint",
+    "issueType": "Issue Type",
+    "selectIssue": "Select issue type",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe your issue in detail",
+    "uploadDocument": "Upload Document (Optional)",
+    "uploadHint": "JPG, PNG, or PDF (Max 5MB)",
+    "submit": "Submit Complaint",
+    "success": "Complaint registered successfully",
+    "issueTypes": {
+      "powerOutage": "Power Outage",
+      "billing": "Billing Issue",
+      "meterFault": "Meter Fault",
+      "leakage": "Leakage",
+      "quality": "Quality Issue",
+      "connection": "New Connection",
+      "disconnection": "Disconnection",
+      "other": "Other"
+    }
+  },
+  "serviceRequest": {
+    "title": "Service Request",
+    "requestType": "Request Type",
+    "selectRequest": "Select request type",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe your request in detail",
+    "uploadDocument": "Upload Document (Optional)",
+    "submit": "Submit Request",
+    "success": "Request submitted successfully",
+    "requestTypes": {
+      "newConnection": "New Connection",
+      "disconnection": "Disconnection",
+      "reconnection": "Reconnection",
+      "meterChange": "Meter Change",
+      "nameChange": "Name Change",
+      "addressChange": "Address Change",
+      "other": "Other"
+    }
+  },
+  "status": {
+    "title": "Track Status",
+    "requestId": "Request ID",
+    "enterRequestId": "Enter your request ID",
+    "track": "Track",
+    "submitted": "Submitted",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "notFound": "Request not found",
+    "details": "Request Details",
+    "department": "Department",
+    "serviceType": "Service Type",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At"
+  },
+  "confirmation": {
+    "title": "Request Confirmed",
+    "success": "Your request has been submitted successfully",
+    "requestId": "Request ID",
+    "department": "Department",
+    "serviceType": "Service Type",
+    "status": "Status",
+    "dateTime": "Date & Time",
+    "downloadReceipt": "Download Receipt",
+    "printReceipt": "Print Receipt",
+    "trackStatus": "Track Status",
+    "newRequest": "New Request",
+    "thankYou": "Thank you for using LokSetu services"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "login": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "logout": "Logout",
+    "requests": "Requests",
+    "allRequests": "All Requests",
+    "filterByDepartment": "Filter by Department",
+    "filterByStatus": "Filter by Status",
+    "allDepartments": "All Departments",
+    "allStatuses": "All Statuses",
+    "requestDetails": "Request Details",
+    "updateStatus": "Update Status",
+    "save": "Save",
+    "user": "User",
+    "mobile": "Mobile",
+    "noRequests": "No requests found"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "required": "This field is required",
+    "invalidFile": "Invalid file type or size",
+    "sessionExpired": "Session expired. Please login again."
+  }
+}
